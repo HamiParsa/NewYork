@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <h1>🗽 NYC Showcase Ultimate</h1>
+  <p>An interactive, portfolio-ready NYC showcase with cinematic hero, attractions, mini-map, gallery, and timeline. Built with Next.js, React, TypeScript, and Framer Motion.</p>
+  <a href="#"> 
+    <img src="https://img.shields.io/badge/View_Live_Project-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-## Getting Started
+---
 
-First, run the development server:
+## 🔥 About NYC Showcase Ultimate
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**NYC Showcase Ultimate** is a modern, frontend-only NYC demo component showcasing multiple attractions with animations, interactive mini-map, gallery lightbox, and timeline.  
+It demonstrates professional UI composition, state management, responsive layouts, and interactive elements—all in a single-file React/Next.js component.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<ul>
+  <li>🎬 <b>Cinematic Hero</b> — parallax background with gradient fade</li>
+  <li>📍 <b>Interactive Mini-Map</b> — click markers to highlight attractions</li>
+  <li>🏙️ <b>Featured Attractions</b> — cards with image, description, and hover animations</li>
+  <li>🖼️ <b>Gallery Lightbox</b> — fullscreen view with prev/next navigation</li>
+  <li>🗓️ <b>Timeline / History</b> — scrollable historic milestones of NYC</li>
+  <li>🖤 <b>Dark Mode Friendly</b> — clean modern aesthetic</li>
+  <li>🏙️ <b>Borough Selector</b> — filter attractions by borough</li>
+  <li>📱 <b>Responsive Layout</b> — works beautifully on mobile, tablet, and desktop</li>
+  <li>✨ <b>CTA & Footer</b> — portfolio-ready finishing touch</li>
+</ul>
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧠 Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Dynamic UI and interactivity |
+| 🧭 **Next.js** | Routing, image optimization, and client components |
+| 🟦 **TypeScript** | Type safety for props and state |
+| 🎨 **Tailwind CSS** | Styling, responsive design, and utility classes |
+| 🌀 **Framer Motion** | Smooth animations and transitions |
+| 🗂️ **Static JSON / Hardcoded Data** | Attraction & gallery data |
+| 🖼️ **Next/Image** | Optimized images and responsive handling |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 💡 Description
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Users can:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Explore NYC with a **cinematic hero banner** 🏙️  
+- Browse featured attractions and read descriptions 📝  
+- Click on **mini-map markers** to highlight attractions 📍  
+- View a **gallery of NYC images** in fullscreen lightbox 🖼️  
+- Scroll through **NYC historical timeline** ⏳  
+- Filter attractions by borough with interactive buttons 🗂️  
+- Enjoy **responsive layout** across devices 📱  
+- See smooth **hover and entry animations** powered by Framer Motion ✨  
+
+This project demonstrates **modern front-end practices** including component design, state handling, animations, and responsive layouts.
+
+---
+
+## 🖼️ Project Preview
+
+<div align="center">
+  <img src="/nyc1.png" width="700px" />
+  <br/> <br/>
+  <img src="/nyc2.png" width="700px" /> 
+</div>
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [Your Name](https://github.com/hamiparsa)  
+💬 Front-End Developer | Building interactive, immersive web experiences  
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,framer" />
+</div>
