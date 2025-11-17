@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🗽 NYC Showcase Ultimate</h1>
   <p>An interactive, portfolio-ready NYC showcase with cinematic hero, attractions, mini-map, gallery, and timeline. Built with Next.js, React, TypeScript, and Framer Motion.</p>
-  <a href="#"> 
+  <a href="https://hamiparsa.github.io/NewYork/"> 
     <img src="https://img.shields.io/badge/View_Live_Project-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
