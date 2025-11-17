@@ -65,9 +65,9 @@ This project demonstrates **modern front-end practices** including component des
 ## 🖼️ Project Preview
 
 <div align="center">
-  <img src="/nyc1.png" width="700px" />
+  <img src="/pic1.png" width="700px" />
   <br/> <br/>
-  <img src="/nyc2.png" width="700px" /> 
+  <img src="/pic2.png" width="700px" /> 
 </div>
 
 ---
